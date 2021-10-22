@@ -1,7 +1,7 @@
 /*
-Author: Luca Scaringella
+Author: Ing. Luca Gian Scaringella
 GitHub: LucaCode
-Copyright(c) Luca Scaringella
+Copyright(c) Ing. Luca Gian Scaringella
  */
 
 export const distinctArrayFilter = <T>(v: T, i: number, a: T[]) => a.indexOf(v) === i;
